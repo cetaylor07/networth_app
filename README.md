@@ -1,6 +1,6 @@
 # Networth tracking app using streamlit  
 
-To start run requirements.txt to install the needed packages.  
+#### To start run requirements.txt to install the needed packages.  
 - pip install -r requirements.txt  
 
 #### For Windows users you have a couple options; I set up a .bat file that will start the app in the browser, and you have two options on how to run the file.  
