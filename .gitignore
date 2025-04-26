@@ -2,3 +2,4 @@ env/
 __pycache__/
 /tests_logs
 networth.db
+net_worth_snapshot.log
