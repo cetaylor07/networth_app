@@ -1,1 +1,7 @@
-pip install streamlit fastapi uvicorn sqlalchemy pandas plotly requests
+streamlit 
+fastapi 
+uvicorn 
+sqlalchemy 
+pandas 
+plotly 
+requests
