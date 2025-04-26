@@ -10,4 +10,4 @@ uvicorn main:app --reload &
 sleep 2
 
 # Start the Streamlit app
-streamlit run your_streamlit_app.py
+streamlit run app.py
