@@ -1,0 +1,1 @@
+pip install streamlit fastapi uvicorn sqlalchemy pandas plotly requests
