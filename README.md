@@ -1,5 +1,5 @@
-# networth_app
-Networth tracking app using streamlit  
+# Networth tracking app using streamlit  
+ 
 To start run requirements.txt to install the needed packages.  
 - pip install -r requirements.txt  
 
