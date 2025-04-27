@@ -10,7 +10,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("net_worth_snapshot.log"),
+        logging.FileHandler("./logs/net_worth_snapshot.log"),
         logging.StreamHandler(sys.stdout)
     ]
 )
